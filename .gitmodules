@@ -1,0 +1,3 @@
+[submodule "src/bolt"]
+	path = src/bolt
+	url = https://github.com/Minskyb/bolt.git
